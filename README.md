@@ -1,5 +1,5 @@
 # Psychology Reading
-Academic readings on human motivation, needs, self-regulation, and goal accomplishment.
+Academic reading on human motivation, needs, self-regulation, and goal accomplishment.
 
 ## Books
 * **Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness**, Ryan, Richard M., and Edward L. Deci. 
