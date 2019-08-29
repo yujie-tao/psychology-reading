@@ -1,5 +1,5 @@
 # Psychology Reading
-Academic reading on human motivation, needs, self-regulation, and goal accomplishment.
+Academic readings on human motivation, needs, self-regulation, and goal accomplishment.
 
 ## Books
 * **Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness**, Ryan, Richard M., and Edward L. Deci. 
@@ -27,7 +27,7 @@ Weinstein, Netta, Kirk W. Brown, and Richard M. Ryan.
 * **Need Satisfaction, Motivation, and Well-Being in the Work Organizations of a Former Eastern Bloc Country: A Cross-Cultural Study of Self-Determination**, Deci, Edward L., et al. "
 * **Parent and Teacher Autonomy-support in Russian and US Adolescents: Common Effects on Well-being and Academic Motivation**, Chirkov, Valery I., and Richard M. Ryan.
 * **The “What” and “Why” of Goal Pursuits: Human Needs and the Self-Determination of Behavior**, Deci, Edward L., and Richard M. Ryan.
-* **Further Examining the American Dream: Differential Correlates of Intrinsic and Extrinsic Goals**,Kasser, Tim, and Richard M. Ryan. 
+* **Further Examining the American Dream: Differential Correlates of Intrinsic and Extrinsic Goals**, Kasser, Tim, and Richard M. Ryan. 
 
 
 ## People
