@@ -5,7 +5,7 @@ Academic reading on human motivation, needs, self-regulation, and goal accomplis
 * **Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness**, Ryan, Richard M., and Edward L. Deci. 
 * **Handbook of self-regulation: Research, Theory, and Applications**, Baumeister, Roy F., and Kathleen D. Vohs.
 * **Social Motivation**, Dunning, David
-* **Handbook of Competence and Motivation**, Elliot, Andrew J., and Carol S. Dweck, eds. 
+* **[Handbook of Competence and Motivation**, Elliot, Andrew J., and Carol S. Dweck, eds] (notes/Handbook_of_Competence_and_Motivation.md). 
 
 ## Papers
 * **A Theory of Human Motivation**, Maslow, A. H.
