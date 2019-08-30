@@ -26,7 +26,7 @@
 	* Self-based
 	* Other-based
 	* Group-based
-* **Treatment interventions**:
+* **Treatment interventions**
 	* **Emotion-oriented therapy**
 	* **Cognitive therapies** : modify anxiety-inducing control believe, values and styles of self-related-thinking
 	* **Competence training**
