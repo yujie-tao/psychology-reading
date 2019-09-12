@@ -8,7 +8,7 @@
 **Self regulation** -- the process whereby people activate and sustain behaviors, cognitions and affects that are systematically oriented toward the attainment of their goals.
 * Many researchers have sought to explain self-regulation in terms of personal **feedback loops** that convey information about one's performance or outcomes. Feedback loops involve a cycle of three phases.
   * **Forethought**: occurs before efforts to learn and includes learning processes and motivational belief that influence.
-	* **Task anlysis**: involves relating a task and its context to goal-setting and strategic planning processes.
+	* **Task analysis**: involves relating a task and its context to goal-setting and strategic planning processes.
 	* **Goal setting**: involves outcomes that one intends to obtain
 		* **Strategic planning**: entails choosing or constructing advantageous learning methods that are appropriate for the task and the environmental setting.
   
@@ -25,7 +25,7 @@
 	* **Self-observation**
 		* **Self-monitoring**: informal mental tracking of one's performance processes and outcomes.
 		* **Self-recording**: creating formal records of learning processes or outcomes.
-  * **Self-reflection** :occurs after the performance phase and involves personal reactions to performance phase outcomes. Involves two self-regulatory subfunctions
+  * **Self-reflection** :occurs after the performance phase and involves personal reactions to performance phase outcomes. Involves two self-regulatory sub-functions
     * **Self-evaluation**
       * Self-comparison: with prior level of performance
 	  * Mastery comparison: with recognized criterion of performance
@@ -36,11 +36,12 @@
 	    * Adaptive decisions: students' motivation to undertake further cycles of learning, for example, by continuing their use of a strategy or by modifying it.
 	    * Defensive decision: preclude further efforts to learn because they shield a student from experiencing further dissatisfaction and negative affect.
 
-**Self-efficacy** -- refers to personal judgement of one's capbilities to organize and execute course of action to attain designated goals.
+**Self-efficacy** -- refers to personal judgement of one's capabilities to organize and execute course of action to attain designated goals.
 
 **Key source of self-motivation**
 * **Self-efficacy**
 * **Outcome experiences**: ultimate consequences of one's performance
 * **Task interest, valuing and affect**
 
-**Calibration**: A measure of the accuracy of metacognitive monitoring in terms of the cogruence between one's perception of competence about performing a prticular task and on'e actual performance.
+**Calibration**: A measure of the accuracy of metacognitive monitoring in terms of the congruence between one's perception of competence about performing a particular task and on'e actual performance.
+

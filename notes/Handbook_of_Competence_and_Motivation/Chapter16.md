@@ -1,7 +1,7 @@
 # Handbook of Competence and Motivation
 
 
-## Chapter 16: Streotype Threat
+## Chapter 16: Stereotype Threat
 
 * **Stereotype threat**: Situational phenomena that members of negatively stereotyped group experience when they worry about confirming that stereotype with their performance.
 * Because of their desire not to confirm the stereotype, negatively stereotyped group members are motivated to perform well, and this increased motivation can be seen in their performance on easy and less complex task.
@@ -14,6 +14,6 @@
 		* **Inhibition**: the ability intentionally to override an automatic response
 		* **Updating**: the ability to maintain relevant and delete irrelevant information in the face of interference
 		* **Switching**: the ability to effectively switch between multiple tasks
-* Successful performance of procedure tasks relies on these practiced, automatized processes being able to proceed uniterrupted, that is , to 'flow' smoothly. When individuals are worried about perform poorly in a way that might confirm 
+* Successful performance of procedure tasks relies on these practiced, automatized processes being able to proceed uninterrupted, that is, to 'flow' smoothly. When individuals are worried about perform poorly in a way that might confirm 
 * When individuals are worried about performing poorly in a way that might confirming the negative stereotype, they may begin to concentrate and consciously focus too much on these procedural aspects of the well-learnt task.
 	
