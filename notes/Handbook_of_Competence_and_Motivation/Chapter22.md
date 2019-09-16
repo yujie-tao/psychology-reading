@@ -1,7 +1,5 @@
 # Chapter 22:Self-Regulation in Early Childhood
 
-# Self-regulation in Early Childhood
-
 ## Self-regulation
 The intentional control of behavior that requires that the individual consciously and intentionally strive to regulate his or her actions.
 
