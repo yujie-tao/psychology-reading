@@ -71,7 +71,7 @@ Professional careers available after individuals attain graduate-level education
 * Selective secondary control: selective primary control and metavolitional strategies
 * Compensatory primary control: Seeking help from others or using additional means perviously not tried.
 
-** Motivational challenges** in careers across the adult lifespan include:
+**Motivational challenges** in careers across the adult lifespan include:
 * Identifying opportunities and constraints in one's career to allow optimized goal choice
 * Effectively engaging with work activities and career goals
 * Disengaging from work activities and career goals when they are obsolete
