@@ -7,23 +7,23 @@ Physical work capacity declines by about 20% between ages 40 and 60 years, mostl
 Cognitive aging has uncovered a more complex picture of multiple competence dimension and multiple trajectories.
 
 However, age-differences in fluid cognitive abilities do become noticeable in tow types of challenging situations.
-* Acquisition of new skills that require strong fluid capacities
-* Fluid abilities become noticeable in during multitasking
-	* Influenced by decreases in working memory capacity
+	* Acquisition of new skills that require strong fluid capacities
+	* Fluid abilities become noticeable in during multitasking
+		* Influenced by decreases in working memory capacity
 	
 Training and practices effects can mitigate the effect of individual’s fluid cognitive decline on their work capacity.
 
 Individuals build domain knowledge during adolescence and early adulthood as a function of personality, interest, and motivational factors that form trait competes supporting domain-specific learning.
 
-* Social trait complex)
-* Clerical/conventional trait complex
-* Science/math trait complex
-* Intellectual/cultural trait complex
+	* Social trait complex)
+	* Clerical/conventional trait complex
+	* Science/math trait complex
+	* Intellectual/cultural trait complex
 
 For older employee at the tail end of career trajectories, demand-competence gaps are most likely to arise under the following conditions
-* Occupations that make strong demand on fluid intellectual abilities and sensory activity.
-* Occupations requiring multitasking that can not be resolved (automatized) based on job experience.
-* Occupations that involve rapid technology-driven change and require frequent retaining.
+	* Occupations that make strong demand on fluid intellectual abilities and sensory activity.
+	* Occupations requiring multitasking that can not be resolved (automatized) based on job experience.
+	* Occupations that involve rapid technology-driven change and require frequent retaining.
 
 ## Social and Occupational Opportunities and Constraints at Different Career Stage
 
@@ -45,7 +45,7 @@ e.g. Electrician, nurse
 Occupations that are entry-level positions through education, training and licensing. Opportunities for career advancement typically stagnant well before career exit unless further education is attained.
 
 ### Job Zone 4
-Avaialbe after completeting at least a 4-year post secondary degree. Provide opporutnies for career advancement well through middle adulthood.  These opportunities are highly dependent on an individual's own agency for attaining additional education, adapting to changing job demands, and performing well in his or her current position.
+Available after completing at least a 4-year post secondary degree. Provide opportunities for career advancement well through middle adulthood.  These opportunities are highly dependent on an individual's own agency for attaining additional education, adapting to changing job demands, and performing well in his or her current position.
 
 ### Job Zone 5
 e.g. Lawyer, doctor or professor
@@ -68,21 +68,23 @@ Professional careers available after individuals attain graduate-level education
 **Developmental deadlines**: Career status changes that are tied to certain age period.
 
 **Urgent goal pursuit** typical involve:
-* Selective secondary control: selective primary control and metavolitional strategies
-* Compensatory primary control: Seeking help from others or using additional means perviously not tried.
+	* Selective secondary control: selective primary control and metavolitional strategies
+	* Compensatory primary control: Seeking help from others or using additional means perviously not tried.
 
-** Motivational challenges** in careers across the adult lifespan include:
-* Identifying opportunities and constraints in one's career to allow optimized goal choice
-* Effectively engaging with work activities and career goals
-* Disengaging from work activities and career goals when they are obsolete
-* Reengaging with activities and goals within or outside work that are accessible for the individual
+**Motivational challenges** in careers across the adult lifespan include:
+	* Identifying opportunities and constraints in one's career to allow optimized goal choice
+	* Effectively engaging with work activities and career goals
+	* Disengaging from work activities and career goals when they are obsolete
+	* Reengaging with activities and goals within or outside work that are accessible for the individual
 
 
 **Types of goals people pursue in their work lives**:
-* Producing certain outcomes, products or consequences for their own sake
-* Developing one's own competence
-* Attaining higher career position
+	* Producing certain outcomes, products or consequences for their own sake
+	* Developing one's own competence
+	* Attaining higher career position
 
 
 ## Random
 Many careers hold little potential for growth, but those that do are most beneficial for individuals who have cognitive, motivational and self-regulatory characteristics that enable them to take advantage of the career opportunities with and beyond their current employee.
+
+#Psychology/HandbookOfCompetenceAndMotivation
